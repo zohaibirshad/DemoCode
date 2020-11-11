@@ -1,1 +1,0 @@
-{!! $gs->maintain_text !!}
